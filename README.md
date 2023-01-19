@@ -44,8 +44,8 @@ print(x)
  
 
 ## Output:
-![](lu1.png)
-![](lu2.png)
+![](Screenshot_20230119_085202.png)
+![](Screenshot_20230119_085257.png)
 
 
 ## Result:
